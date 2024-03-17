@@ -17,3 +17,6 @@ The project is a simple command line interface that allows you to interact with 
 - Add a new student to the database
 - Update a student's email
 - Delete a student from the database
+
+# Video Link
+https://youtu.be/IEse_9NiulM
