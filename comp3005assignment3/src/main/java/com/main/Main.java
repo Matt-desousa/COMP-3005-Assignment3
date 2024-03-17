@@ -36,6 +36,9 @@ public class Main {
         }
     }
 
+    /*
+     * Add a student
+     */
     public static void addStudent(String fName, String lName, String email, String date) {
         try {
             java.sql.Statement statement = connection.createStatement();
